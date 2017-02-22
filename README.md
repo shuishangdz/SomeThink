@@ -301,5 +301,3 @@ img {
 </body>
 </html>
 <!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
-# SomeThink
-this is some think from life.
